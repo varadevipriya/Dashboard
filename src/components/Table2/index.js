@@ -3,7 +3,7 @@ import React from 'react'
 import './index.css'
 import Row from '../Row'
 
-function Table() {
+function Table2() {
   const tableData = [
     {
       one: 'Block-1_Invertor-1 232',
@@ -463,4 +463,4 @@ function Table() {
   )
 }
 
-export default Table
+export default Table2
